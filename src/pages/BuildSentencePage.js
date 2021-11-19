@@ -2,7 +2,7 @@ import React from 'react';
 import { useState } from 'react';
 import classes from './BuildSentencePage.module.css';
 
-import useInput from '../hooks/use-input';
+import useInput from '../CustomHooks/use-input';
 
 import { Form } from '../organisms';
 

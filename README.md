@@ -1,5 +1,5 @@
 # BuildSentenceGame
-A simple game where a user have to fill in 4 basic question and the application generate a sentence from the user´s answers.
+A simple game where a user have to fill in 4 basic question and the application generates a sentence from the user´s answers.
 
 ## How to run frontend
 
